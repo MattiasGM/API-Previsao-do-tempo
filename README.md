@@ -12,7 +12,7 @@ $ git clone https://github.com/MattiasGM/API-Previsao-do-tempo.git
 ```
 ### 📋 Pré-requisitos
 
-Insomnia (ou outro Framework com a mesma finalidade)<br>
+<div><a href="https://insomnia.rest/download">Insomnia</a></div> (ou outro Framework com a mesma finalidade)<br>
 <div><a href="https://nodejs.org/en">NodeJS</a></div><br>
 
 Bibliotecas utilizadas:
