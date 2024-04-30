@@ -26,19 +26,7 @@ Dotenv
 ### 🔧 Instalação
 
 ```
-$ npm init -y
-```
-```
-$ npm i express
-```
-```
-$ npm i axios
-```
-```
-$ npm i cors
-```
-```
-$ npm i dotenv
+$ npm install
 ```
 
 E configure o dotenv criando um arquivo ".env" na raiz do projeto
