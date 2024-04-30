@@ -35,8 +35,10 @@ E configure o dotenv criando um arquivo ".env" na raiz do projeto
 
 
 Após criar o arquivo escreva a chave da API, para obter a chave visite o site:
-
 https://console.hgbrasil.com/keys
+
+### Acesse a documentação:
+https://console.hgbrasil.com/documentation/weather
 
 Após obter a chave, insira no arquivo .env:
 ```
