@@ -70,8 +70,7 @@ get - (http://localhost:3000/temperatura?city_name=NOME_DA_CIDADE, SIGLA_DO_ESTA
 
 Retorno esperado:
 
-![image](https://github.com/MattiasGM/API-Previsao-do-tempo/assets/93679727/218406fa-5c75-42b9-9e21-661fcdc1edef)
-
+![image](https://github.com/MattiasGM/API-Previsao-do-tempo/assets/93679727/50e8f364-75fd-4de9-831a-7f21a0e9ed10)
 
 ## 📄 Licença
 
