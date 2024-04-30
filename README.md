@@ -5,6 +5,8 @@ Uma simples API para pegar dados da previsão do tempo da cidade que você quer 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+
+Faça o clone do repositório em sua máquina:
 ```
 $ git clone https://github.com/MattiasGM/API-Previsao-do-tempo.git
 ```
