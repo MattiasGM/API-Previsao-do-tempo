@@ -14,7 +14,7 @@ $ git clone https://github.com/MattiasGM/API-Previsao-do-tempo.git
 
 Insomnia (ou outro Framework com a mesma finalidade)
 
-NodeJS
+<div><a href="https://nodejs.org/en">NodeJS</a></div>
 
 Bibliotecas utilizadas:
 ```
@@ -27,19 +27,19 @@ Dotenv
 ### 🔧 Instalação
 
 ```
-npm init -y
+$ npm init -y
 ```
 ```
-npm i express
+$ npm i express
 ```
 ```
-npm i axios
+$ npm i axios
 ```
 ```
-npm i cors
+$ npm i cors
 ```
 ```
-npm i dotenv
+$ npm i dotenv
 ```
 
 E configure o dotenv criando um arquivo ".env" na raiz do projeto
@@ -55,7 +55,7 @@ KEY = "SUA-CHAVE"
 
 Para iniciar o programa acesse a pasta "./src" pelo terminal e digite:
 ```
-node index.js
+$ node index.js
 ```
 
 Com o servidor rodando você pode utilizar o Insomnia para fazer as requisições utilizando as rotas padrões:
