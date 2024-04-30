@@ -72,6 +72,8 @@ Retorno esperado:
 
 ![image](https://github.com/MattiasGM/API-Previsao-do-tempo/assets/93679727/50e8f364-75fd-4de9-831a-7f21a0e9ed10)
 
+Com essa requisição você pode manipular os dados recebidos e adicionar como preferir no Front-End.
+
 ## 📄 Licença
 
 Este projeto está sob a licença (MIT) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
