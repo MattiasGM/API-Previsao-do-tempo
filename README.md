@@ -31,6 +31,9 @@ $ npm install
 
 E configure o dotenv criando um arquivo ".env" na raiz do projeto
 
+![image](https://github.com/MattiasGM/API-Previsao-do-tempo/assets/93679727/c9e6e55c-07a3-41e0-9178-f48a076c0365)
+
+
 Após criar o arquivo escreva a chave da API, para obter a chave visite o site:
 
 https://console.hgbrasil.com/keys
