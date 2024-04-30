@@ -1,4 +1,4 @@
-# Projeto base, consumindo outra API
+# API para consumir outra API de previsão do tempo
 
 Uma simples API para pegar dados da previsão do tempo da cidade que você quer ou buscando pelo seu IP.
 
