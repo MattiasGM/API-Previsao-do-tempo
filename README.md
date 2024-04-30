@@ -5,9 +5,9 @@ Uma simples API para pegar dados da previsão do tempo da cidade que você quer 
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
-
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
-
+```
+$ git clone https://github.com/MattiasGM/API-Previsao-do-tempo.git
+```
 ### 📋 Pré-requisitos
 
 Insomnia (ou outro Framework com a mesma finalidade)
